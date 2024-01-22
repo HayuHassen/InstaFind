@@ -7,5 +7,6 @@ pip install dlib (if wheel error ensues download pip install WHL file that comes
 pip install face_recognition 
 pip install numpy
 --------
-When running InstaFind.py the termianl may urge you to run a pip command to install default face recognition models via command terminal, in which case you should comply. 
+Before running InstaFind.py make sure to import the "Faces" file into your IDE. Feel free to add jpg images. The name of a file is considered the name of the face. 
+When running InstaFind.py the terminal may urge you to run a pip command to install default face recognition models, in which case you should comply. 
 Thank you.
