@@ -1,9 +1,9 @@
-Before running InstaFind.py in Python compatible IDE with python version 11 (if you chose another version you must find the dlib WHL file for your particular python interperter yourself), you must pip install these individual Python modules with the following commands in this order (if pip is not recognized as a command type you must add the file holding your python scripts to your windows environment paths):
+Before running InstaFind.py in Python compatible IDE with python version 9 (if you chose another version you must find the dlib WHL file for your particular python interperter yourself), you must pip install these individual Python modules with the following commands in this order (if pip is not recognized as a command type you must add the file holding your python scripts to your windows environment paths):
 -------
 pip install opencv-python
 pip install cmake
 pip install pillow
-pip install dlib (if wheel error ensues download pip install WHL file that comes with this package)
+pip install WHL file that comes with this package
 pip install face_recognition 
 pip install numpy
 --------
